@@ -15,5 +15,5 @@ Bienvenido a mi portafolio de proyectos. Aquí puedes encontrar una lista de mis
 ## Contacto
 
 Si deseas saber más sobre mí o mis proyectos, no dudes en contactarme: 
-1. [Email](cdberganza@proton.me)
+1. cdberganza@proton.me
 2. [LinkedIn](https://www.linkedin.com/in/darwin-berganza/)

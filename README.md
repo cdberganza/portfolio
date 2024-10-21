@@ -12,7 +12,6 @@ Welcome to my project portfolio. Here you can find a list of my main projects on
       - **Libraries**:
            - `requests`: For making HTTP requests to retrieve webpage content.
            - `BeautifulSoup`: For parsing and extracting data from HTML pages.
-           - `numpy`: Used for handling missing data (`NaN` values).
            - `csv`: For writing job offer data into a CSV file.
 
 2. **[Análisis de Redes - Elección de Cortes Guatemala 2024](https://github.com/cdberganza/eleccion_cortes_gt_2024)**

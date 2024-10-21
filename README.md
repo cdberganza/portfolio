@@ -4,9 +4,25 @@ Bienvenido a mi portafolio de proyectos. Aquí puedes encontrar una lista de mis
 
 ## Proyectos Destacados
 
-1. **[Análisis de Redes - Elección de Cortes Guatemala 2024](https://github.com/cdberganza/eleccion_cortes_gt_2024)**
+1. **[Job Automation of Job Search in Guatemala](https://github.com/cdberganza/job_scraping_gt)**
+   - This project aims to automate the search for job offers on job websites in Guatemala. The developed solution allows the company's collaborators to quickly obtain CSV files with information about available job vacancies, saving time and effort in manual searching.
+   - Tecnologías utilizadas: 
+      - **Python**: The core language used to build the automation.
+      - **Libraries**:
+           - `requests`: For making HTTP requests to retrieve webpage content.
+           - `BeautifulSoup`: For parsing and extracting data from HTML pages.
+           - `numpy`: Used for handling missing data (`NaN` values).
+           - `csv`: For writing job offer data into a CSV file.
+
+3. **[Análisis de Redes - Elección de Cortes Guatemala 2024](https://github.com/cdberganza/eleccion_cortes_gt_2024)**
    - Breve anális de redes con los datos publicados por el Congreso de la República de Guatemala sobre la elección de la Corte Suprema de Justicia y Cortes de Apelaciones.
-   - Tecnologías utilizadas: Python, Jupyter Notebooks.
+   - Tecnologías utilizadas: 
+      - **Python**: The core language used to build the automation.
+      - **Libraries**:
+           - `requests`: For making HTTP requests to retrieve webpage content.
+           - `BeautifulSoup`: For parsing and extracting data from HTML pages.
+           - `numpy`
+           - `pandas`
 
 ## Otros Proyectos
 
